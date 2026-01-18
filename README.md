@@ -51,7 +51,7 @@
 ### Message Brokers & Background Jobs
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/H/hangfire-logo-362B9CF7F3-seeklogo.com.png" alt="hangfire" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/HangfireIO/Hangfire/main/hangfire-logo.png" alt="hangfire" width="45" height="45"/>
 </p>
 
 ### Frontend
@@ -79,15 +79,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cembadem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cembadem&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cembadem&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cembadem&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cembadem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cembadem&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -106,7 +103,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
