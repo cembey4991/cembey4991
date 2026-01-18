@@ -79,11 +79,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cembadem&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cembadem&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cembadem&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cembadem&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cembadem&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cembadem&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
 
