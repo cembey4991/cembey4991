@@ -76,17 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cembadem&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cembadem&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cembadem&theme=tokyonight" alt="Top Languages" />
-</p>
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
