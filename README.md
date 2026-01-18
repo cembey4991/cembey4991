@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Cem+Badem;Backend+Developer;Health+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Cem+Badem;Full+Stack+Developer;Building+Enterprise+Solutions" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Backend Developer from Turkey 🇹🇷</h3>
+<h3 align="center">🚀 Full Stack Developer from Turkey 🇹🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cembadem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** at **Abis Teknoloji**, specializing in building scalable and efficient enterprise solutions. With experience spanning both backend and frontend development, I bring a full-stack perspective to solving complex business problems.
+I'm a **Full Stack Developer** at **Abis Teknoloji**, specializing in building scalable and efficient enterprise solutions. With hands-on experience in both backend and frontend technologies, I deliver end-to-end solutions for complex business requirements.
 
 ### 🎯 Current Focus
 - 🏢 Working at **Abis Teknoloji** on the **AVESİS** project
 - 📚 Developing and enhancing **AVESİS** - a comprehensive automation system for higher education institutions
 - 🔧 Designing functional modules for academic inventory, researcher web pages, and statistical reporting systems
 - 🏗️ Building customizable and integrated frameworks that meet institutional needs
-- 📊 Creating performance-oriented solutions that streamline business processes
+- 📊 Creating performance-oriented, user-friendly solutions that streamline business processes
 
 ### 💼 Professional Background
 - 🏥 Previously worked on **health systems**, gaining experience in critical and regulated environments
@@ -37,7 +37,7 @@ I'm a **Backend Developer** at **Abis Teknoloji**, specializing in building scal
 
 ### 📫 Let's Connect
 - 💌 Email: **cembey4991@hotmail.com**
-- 💼 Open to discussing **ASP.NET Core, Microservices Architecture, Docker, and Backend Development**
+- 💼 Open to discussing **Full Stack Development, ASP.NET Core, Microservices Architecture, and Modern Web Technologies**
 
 ---
 
@@ -92,19 +92,6 @@ I'm a **Backend Developer** at **Abis Teknoloji**, specializing in building scal
 - **Background Job Processing** with Hangfire
 - **Distributed Caching** with Redis
 - **Centralized Logging** with ELK Stack (Elasticsearch, Logstash, Kibana)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cembadem&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cembadem&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cembadem&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
