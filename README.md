@@ -29,11 +29,11 @@ I'm a **Full Stack Developer** at **Abis Teknoloji**, specializing in building s
 - 📈 **Quality-Focused**: Committed to delivering high-quality, maintainable code
 - 🔍 **Problem Solver**: Strategic approach to tackling complex technical challenges
 
-### 🌱 Currently Learning
+### 🔧 Technologies I Work With
 - **ASP.NET Core** - Building robust web APIs and microservices
 - **Distributed Systems** - Message queuing with RabbitMQ, caching with Redis
 - **DevOps Practices** - Containerization with Docker, monitoring with ELK Stack
-- **Modern JavaScript** - Enhancing frontend capabilities
+- **Modern JavaScript** - Creating dynamic and responsive user interfaces
 
 ### 📫 Let's Connect
 - 💌 Email: **cembey4991@hotmail.com**
@@ -92,6 +92,19 @@ I'm a **Full Stack Developer** at **Abis Teknoloji**, specializing in building s
 - **Background Job Processing** with Hangfire
 - **Distributed Caching** with Redis
 - **Centralized Logging** with ELK Stack (Elasticsearch, Logstash, Kibana)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cembadem&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cembadem&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cembadem&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
