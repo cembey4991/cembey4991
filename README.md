@@ -12,15 +12,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** specializing in building scalable and efficient solutions for the healthcare sector. With experience spanning both backend and frontend development, I bring a full-stack perspective to solving complex business problems.
+I'm a **Backend Developer** at **Abis Teknoloji**, specializing in building scalable and efficient enterprise solutions. With experience spanning both backend and frontend development, I bring a full-stack perspective to solving complex business problems.
 
 ### 🎯 Current Focus
-- 🏥 Developing and enhancing **AVESİS** - a comprehensive automation system for higher education institutions
+- 🏢 Working at **Abis Teknoloji** on the **AVESİS** project
+- 📚 Developing and enhancing **AVESİS** - a comprehensive automation system for higher education institutions
 - 🔧 Designing functional modules for academic inventory, researcher web pages, and statistical reporting systems
 - 🏗️ Building customizable and integrated frameworks that meet institutional needs
 - 📊 Creating performance-oriented solutions that streamline business processes
 
-### 💼 Professional Approach
+### 💼 Professional Background
+- 🏥 Previously worked on **health systems**, gaining experience in critical and regulated environments
 - 🚀 **Innovation-Driven**: Constantly learning and applying cutting-edge technologies
 - 🤝 **Team Player**: Strong collaboration skills with analytical thinking
 - 🎨 **User-Centric**: Focused on creating intuitive, user-friendly interfaces
