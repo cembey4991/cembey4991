@@ -12,13 +12,30 @@
 
 ## 👨‍💻 About Me
 
-- 🏥 Currently working on **Health Systems** and building scalable healthcare solutions
-- 📚 Learning and mastering **ASP.NET Core, C#, JavaScript** and modern backend architectures
-- 🔨 Building microservices with **Docker, RabbitMQ, Redis** and monitoring with **ELK Stack**
-- 💡 Interested in distributed systems, message queuing, and real-time data processing
-- 💬 Ask me about **ASP.NET Core, Microservices Architecture, Docker, Message Brokers**
-- 📫 Reach me at **cembey4991@hotmail.com**
-- 🎯 2024 Goal: Master cloud-native development and DevOps practices
+I'm a **Backend Developer** specializing in building scalable and efficient solutions for the healthcare sector. With experience spanning both backend and frontend development, I bring a full-stack perspective to solving complex business problems.
+
+### 🎯 Current Focus
+- 🏥 Developing and enhancing **AVESİS** - a comprehensive automation system for higher education institutions
+- 🔧 Designing functional modules for academic inventory, researcher web pages, and statistical reporting systems
+- 🏗️ Building customizable and integrated frameworks that meet institutional needs
+- 📊 Creating performance-oriented solutions that streamline business processes
+
+### 💼 Professional Approach
+- 🚀 **Innovation-Driven**: Constantly learning and applying cutting-edge technologies
+- 🤝 **Team Player**: Strong collaboration skills with analytical thinking
+- 🎨 **User-Centric**: Focused on creating intuitive, user-friendly interfaces
+- 📈 **Quality-Focused**: Committed to delivering high-quality, maintainable code
+- 🔍 **Problem Solver**: Strategic approach to tackling complex technical challenges
+
+### 🌱 Currently Learning
+- **ASP.NET Core** - Building robust web APIs and microservices
+- **Distributed Systems** - Message queuing with RabbitMQ, caching with Redis
+- **DevOps Practices** - Containerization with Docker, monitoring with ELK Stack
+- **Modern JavaScript** - Enhancing frontend capabilities
+
+### 📫 Let's Connect
+- 💌 Email: **cembey4991@hotmail.com**
+- 💼 Open to discussing **ASP.NET Core, Microservices Architecture, Docker, and Backend Development**
 
 ---
 
@@ -73,6 +90,19 @@
 - **Background Job Processing** with Hangfire
 - **Distributed Caching** with Redis
 - **Centralized Logging** with ELK Stack (Elasticsearch, Logstash, Kibana)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cembadem&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cembadem&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cembadem&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
